@@ -6,6 +6,7 @@
 ## Lista Duplamente Ligada
 * Uma **lista duplamente ligada** ou lista duplamente encadeada é uma estrutura de dados ligada que consiste de um conjunto de registros sequencialmente ligados chamados de **nós** e é uma extensão da lista simplesmente ligada. Cada nó contem **dois campos**, chamados de links ou enlaces, que são referências para o **nó anterior e para o nó posterior** na sequência de nós. Os links anteriores e posteriores dos nós inicial e final, respectivamente, apontam para algum tipo de terminador, tipicamente um nó sentinela ou nulo, para facilitar o percorrimento da lista. Se houver apenas um nó sentinela, a lista será vinculada circularmente através do nó sentinela. Ele pode ser conceituado como duas listas unicamente vinculadas formadas a partir dos mesmos itens de dados, mas em ordens sequenciais opostas.
 
+
 ![](https://github.com/DarlanNoetzold/Estrutura_de_Dados/blob/main/ldl.png)
 
 ## Fila

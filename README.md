@@ -15,3 +15,7 @@
 * Uma pilha é uma estrutura de dados que admite remoção de elementos e inserção de novos objetos.  Mais especificamente, uma  pilha (= stack)  é uma estrutura sujeita à seguinte regra de operação:  sempre que houver uma remoção, o elemento removido é o que está na estrutura há menos tempo. Em outras palavras, o primeiro objeto a ser inserido na pilha é o último a ser removido. Essa política é conhecida pela sigla **LIFO** (= Last-In-First-Out).
 ## Árvore
 * Uma **árvore** é formada por um conjunto de elementos que armazenam informações chamados **nodos**. Toda a árvore possui o elemento chamado **raiz**, que possui ligações para outros elementos denominados **ramos ou filhos**. Estes ramos podem estar ligados a outros elementos que também podem possuir outros ramos. O elemento que não possui ramos é conhecido como **nó folha**, nó terminal ou nó externo
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
